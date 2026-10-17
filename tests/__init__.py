@@ -1,0 +1,1 @@
+"""NMPI Automation Tool automated tests."""
